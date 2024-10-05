@@ -67,5 +67,4 @@ Cyclistic service area or if they have purchased multiple single passes.
 # Process
 This process was used in SQL.
 
-Total of rides
-365069
+
