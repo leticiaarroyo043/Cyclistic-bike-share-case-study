@@ -1,7 +1,7 @@
 # Cyclistic-bike-share-case-study
 Case study: How does a bike-share navigate speedy success?
 
-Introduction
+# *Introduction*
 
 Welcome to the Cyclistic bike-share analysis case study! In this case study, you work for a
 fictional company, Cyclistic, along with some key team members. In order to answer the
@@ -9,7 +9,7 @@ business questions, follow the steps of the data analysis process: Ask, Prepare,
 Analyze, Share, and Act. Along the way, the Case Study Roadmap tables — including guiding
 questions and key tasks — will help you stay on the right path.
 
-Scenario
+# Scenario
 
 You are a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share
 company in Chicago. The director of marketing believes the company’s future success
@@ -19,7 +19,7 @@ insights, your team will design a new marketing strategy to convert casual rider
 members. But first, Cyclistic executives must approve your recommendations, so they must be
 backed up with compelling data insights and professional data visualizations.
 
-About the company
+# About the company
 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown
 to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations
@@ -42,21 +42,23 @@ annual members and casual riders differ, why casual riders would buy a membershi
 digital media could affect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
 
-Analyze
+# Ask
 
  How should you organize your data to perform analysis on it?
-● Has your data been properly formatted?
-● What surprises did you discover in the data?
-● What trends or relationships did you find in the data?
-● How will these insights help answer your business questions?
+ Has your data been properly formatted?
+ What surprises did you discover in the data?
+ What trends or relationships did you find in the data?
+ How will these insights help answer your business questions?
 
-Prepare
+# Prepare
 
 Use Cyclistic’s historical trip data to analyze and identify trends. Download the previous 12
-months of Cyclistic trip data here. (Note: The datasets have a different name because Cyclistic
+months of Cyclistic trip data here. (https://divvy-tripdata.s3.amazonaws.com/index.html)
+(Note: The datasets have a different name because Cyclistic
 is a fictional company. For the purposes of this case study, the datasets are appropriate and
 will enable you to answer the business questions. The data has been made available by
-Motivate International Inc. under this license.) This is public data that you can use to explore
+Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). 
+This is public data that you can use to explore
 how different customer types are using Cyclistic bikes. But note that data-privacy issues
 prohibit you from using riders’ personally identifiable information. This means that you won’t be
 able to connect pass purchases to credit card numbers to determine if casual riders live in the
