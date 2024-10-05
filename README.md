@@ -67,3 +67,4 @@ Cyclistic service area or if they have purchased multiple single passes.
 # Process
 This process was used in SQL.
 
+(https://github.com/users/leticiaarroyo043/projects/3/views/1?pane=issue&itemId=82263424)
