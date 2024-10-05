@@ -64,7 +64,9 @@ prohibit you from using riders’ personally identifiable information. This mean
 able to connect pass purchases to credit card numbers to determine if casual riders live in the
 Cyclistic service area or if they have purchased multiple single passes.
 
-# Process
+# Process and Analyze
 This process was used in SQL.
+Go to SQL
+
 
 
