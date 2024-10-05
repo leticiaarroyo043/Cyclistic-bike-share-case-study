@@ -44,11 +44,11 @@ analyzing the Cyclistic historical bike trip data to identify trends.
 
 # Ask
 
- How should you organize your data to perform analysis on it?
- Has your data been properly formatted?
- What surprises did you discover in the data?
- What trends or relationships did you find in the data?
- How will these insights help answer your business questions?
+1. How should you organize your data to perform analysis on it?
+2. Has your data been properly formatted?
+3.  What surprises did you discover in the data?
+4.  What trends or relationships did you find in the data?
+5. How will these insights help answer your business questions?
 
 # Prepare
 
@@ -63,3 +63,7 @@ how different customer types are using Cyclistic bikes. But note that data-priva
 prohibit you from using riders’ personally identifiable information. This means that you won’t be
 able to connect pass purchases to credit card numbers to determine if casual riders live in the
 Cyclistic service area or if they have purchased multiple single passes.
+
+# Process
+This process was used in SQL.
+
