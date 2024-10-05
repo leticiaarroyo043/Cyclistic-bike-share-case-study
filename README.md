@@ -67,9 +67,5 @@ Cyclistic service area or if they have purchased multiple single passes.
 # Process
 This process was used in SQL.
 
-SELECT COUNT(*)
-AS total_rides
-FROM aerial-jigsaw-437400-c6.Cyclistic_bike_share.Divvy_Trips_2019_Q1;
-
 Total of rides
 365069
